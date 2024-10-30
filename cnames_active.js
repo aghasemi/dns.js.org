@@ -111,7 +111,7 @@ var cnames_active = {
   "afmsavage": "afmsavage.github.io",
   "afterwind": "eedrxs.github.io/afterwind",
   "agentnpm": "meetping.github.io/agentnpm",
-  "aghasemi": "aghasemi.github.io",
+  "alireza": "aghasemi.github.io",
   "agilecards": "otaklapka.github.io/agilecards",
   "agma": "uwynell.github.io/agma.js",
   "agrawalnaman": "agrawalnaman.github.io",
